@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "YANA'S webpage"
 title_separator          : "-"
-name                     : &name "Yana Li"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://yana-li.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "/yana-li.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yana Li"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "HK SAR"
+  employer         : "HKUST"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yanali1@ust.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
