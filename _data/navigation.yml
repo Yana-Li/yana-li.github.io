@@ -5,6 +5,9 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Recent Posts"
+    url: /year-archive/
+    
   - title: "Publications"
     url: /publications/
 
@@ -13,10 +16,7 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+            
   - title: "CV"
     url: /cv/
     
