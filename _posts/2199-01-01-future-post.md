@@ -1,7 +1,7 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'SST-update'
+date: 2025-04-23
+permalink: /posts/2025/04/blog-post-4/
 tags:
   - cool posts
   - category1
