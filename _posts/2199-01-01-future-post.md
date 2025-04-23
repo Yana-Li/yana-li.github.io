@@ -4,7 +4,7 @@ date: 2025-04-23
 permalink: /posts/2025/04/blog-post-4/
 tags:
   - cool posts
-  - category1
+  - WRF
   - category2
 ---
 
