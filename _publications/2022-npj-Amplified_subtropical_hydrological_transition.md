@@ -32,7 +32,7 @@ The article, *"Amplifying subtropical hydrological transition over China in earl
 *Explanation*: This figure links precipitation changes to mid-latitude synoptic disturbances (short-term weather systems). In the pre-MO period (a, c), stronger disturbances are associated with more rainfall, but their weakening trend reduces precipitation. In the post-MO period (b, d), weaker disturbances allow stationary fronts to persist, increasing rainfall. The figure highlights how declining synoptic activity drives the observed drying and wetting trends.
 
 ### Figure 6: Future Projections in CanESM5
-![Figure 6](images/paper-2022-npj/Fig4.png "Future Projection")
+![Figure 6](/images/paper-2022-npj/Fig4.png "Future Projection")
 *Caption*: Projected changes in (a, b) precipitation and (c, d) synoptic disturbances (SLP and 500-hPa geopotential height) for pre-monsoon and post-monsoon periods in the CanESM5 model under SSP5-8.5 (2065–2100 vs. 1979–2014). (Source: Li et al., 2022)
 *Explanation*: Figure 6 presents future projections from the CanESM5 model, showing a continued drying trend in the pre-MO period (a) and a wetting trend in the post-MO period (b) under a high-emissions scenario. These trends are tied to changes in synoptic disturbances (c, d), with suppressed activity in the pre-MO period reducing rainfall and weaker disturbances in the post-MO period enhancing stationary fronts, suggesting the hydrological transition will intensify by 2100.
 
