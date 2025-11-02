@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yana Li"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  # location         : "HK SAR"
-  employer         : "HKUST"
+  pronouns         : "she/her"  
+  bio              : "I am working on improving understanding prediction and predictability of water/energy cycle extremes using numerical models, statistical and machine learning methods"
+  location         : "HK SAR"
+  #employer         : "HKUST"
   uri              : # URL
   email            : "yanali1@ust.hk" 
 
