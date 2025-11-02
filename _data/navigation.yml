@@ -6,7 +6,7 @@
 
 main:
   - title: "Posts"
-    url: /posts/
+    url: /year_archive/
     
   - title: "Publications"
     url: /publications/
