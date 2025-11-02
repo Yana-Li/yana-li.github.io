@@ -12,7 +12,7 @@ A non-exhaustive list of current research topics in our group:
 1. application of artificial intelligence in downscaling and S2S prediction
 1. feedback processes in natural modes of variability and forced climate change
 
-##### Team Members
-##### Technical Progess Summary
-##### Publication Summary
-##### Posts 
+### Team Members
+### Technical Progess Summary
+### Publication Summary
+### Posts 
