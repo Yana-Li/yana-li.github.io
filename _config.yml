@@ -227,6 +227,8 @@ collections:
   posts:
     output: true
     permalink: /:collection/:path/
+    sort_by: date
+    sort_direction: descending
 
 
 # These settings control how pages and collections are included in the site
