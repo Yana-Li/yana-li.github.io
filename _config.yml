@@ -215,6 +215,9 @@ collections:
   posts:
     output: true
     permalink: /:collection/:path/
+  posts2:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -243,6 +246,13 @@ defaults:
       comments: true
       share: true
       related: true
+  # _posts2
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
   # _pages
   - scope:
       path: ""
