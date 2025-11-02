@@ -9,8 +9,7 @@ redirect_from:
 
 # YANA'S Website
 
-| [Recent Posts](/posts/) | [Publications](/publications/) | [Talks](/talks/) | [Portfolio](/portfolio/) | [CV](/cv/) | [Guide](/guide/) |
-|---|---|---|---|---|---|
+| [Recent Posts](/year_archive/) | [Publications](/publications/) | [Talks](/talks/) | [Portfolio](/portfolio/) | [CV](/cv/) | [Guide](/guide/) |
 
 ---
 
