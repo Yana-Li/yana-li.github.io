@@ -1,7 +1,7 @@
 ---
 title: 'SST-update'
 date: 2025-04-23
-permalink: /posts/2025/04/blog-post-4/
+permalink: /posts/2025/04/SST/
 tags:
   - cool posts
   - WRF
