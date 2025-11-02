@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-| [Recent Posts](/year_archive/) | [Publications](/publications/) | [Talks](/talks/) | [Portfolio](/portfolio/) | [CV](/cv/) | [Guide](/guide/) |
+| [Posts](/posts/) | [Publications](/publications/) | [Talks](/talks/) | [Portfolio](/portfolio/) | [CV](/cv/) | [Guide](/guide/) |
 
 ---
 
