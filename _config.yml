@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "YANA'S Website"
+title                    : "YANA'S Group"
 title_separator          : "-"
 name                     : &name "Yana Li"
 description              : &description "personal description"
