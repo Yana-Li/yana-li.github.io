@@ -18,10 +18,26 @@ A non-exhaustive list of current research topics in our group:
 1. application of artificial intelligence in downscaling and S2S prediction
 1. feedback processes in natural modes of variability and forced climate change
 
-# What We Are Doing
-1. Prediction of water/energy cycle events across scales
-1. Real-time mid-term forecast
-    
+---
+
+## About Our Research
+
+Our research focuses on:
+
+- **Climate Variability**: Studying patterns from weekly to decadal timescales
+- **Diagnostic Tools**: Developing and applying advanced analytical methods
+- **Modeling Approaches**: Using state-of-the-art climate models
+- **Regional Impacts**: Assessing water, energy, and hazard implications
+- **Atmospheric Dynamics**: Understanding extratropical disturbances
+
+## Recent Updates
+
+Stay tuned for our latest research findings, publications, and group news.
+
+## Contact
+
+For more information about our research group, please feel free to reach out.
+
 ## TBC
 ### Technical Progess Summary
 ### Publication Summary
